@@ -1,4 +1,7 @@
-## Hi there 👋
+🌍 Welcome to BlockGoldCoin (BGC)  
+Modular, planetary-scale token architecture for SAFEARTH and beyond.  
+Mint. Govern. Orbit. Mythos.
+
 
 <!--
 **BlockGoldCoin/BlockGoldCoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
