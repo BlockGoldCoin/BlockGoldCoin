@@ -1,4 +1,5 @@
-🌍 Welcome to BlockGoldCoin (BGC)  
+<img width="512" height="512" alt="BGC-Finanzschutz-Governance-transparent" src="https://github.com/user-attachments/assets/5f1b3337-04b2-4ff1-8ee5-92fcb0c91fae" />
+ Welcome to BlockGoldCoin (BGC)  
 Modular, planetary-scale token architecture for SAFEARTH and beyond.  
 Mint. Govern. Orbit. Mythos.
 
