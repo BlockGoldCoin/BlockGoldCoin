@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-  <meta charset="UTF-8" />
-  <title>BlockGoldCoin (BGC) – Willkommen</title>
+
   <style>
     @keyframes orbitFade {
       0%   { background: linear-gradient(to right, #1e3a8a, #10b981, #f59e0b, #d4af37, #e5e7eb); }
