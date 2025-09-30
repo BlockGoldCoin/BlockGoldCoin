@@ -1,7 +1,7 @@
 </head>
 <body>
   <div class="welcome-block">
-    <img src="https://github.com/user-attachments/assets/2bdd97f8-3985-4e1a-8236-a400c40a35b8" alt="BGC-Finanzschutz-Governance-transparent" />
+   <img width="100" height="100" alt="BGC-Finanzschutz-Governance-transparent" src="https://github.com/user-attachments/assets/c6d1e0c1-cc87-430d-8dfc-0910a64068f8" />
     <div class="welcome-text">
       <h1>Welcome to <strong>BlockGoldCoin (BGC)</strong></h1>
       <p>
