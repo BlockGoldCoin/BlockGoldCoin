@@ -1,13 +1,34 @@
-<div style="display: flex; align-items: center; background: linear-gradient(to right, #1e3a8a, #10b981, #f59e0b, #d4af37, #e5e7eb); padding: 20px; border-radius: 12px; font-family: 'Segoe UI', sans-serif; color: #0f172a;">
-  <img src="https://github.com/user-attachments/assets/2bdd97f8-3985-4e1a-8236-a400c40a35b8" alt="BGC-Finanzschutz-Governance-transparent" width="100" height="100" style="margin-right: 20px; border-radius: 8px;" />
-  <div>
-    <h1 style="margin: 0; font-size: 1.8em;">Welcome to <strong>BlockGoldCoin (BGC)</strong></h1>
-    <p style="margin: 8px 0 0; font-size: 1.1em;">
-      Modular, planetary-scale token architecture for <strong>SAFEARTH</strong> and beyond.<br />
-      <em>Mint. Govern. Orbit. Mythos.</em>
-    </p>
+<style>
+@keyframes orbitFade {
+  0%   { background: linear-gradient(to right, #1e3a8a, #10b981, #f59e0b, #d4af37, #e5e7eb); }
+  25%  { background: linear-gradient(to right, #10b981, #f59e0b, #d4af37, #e5e7eb, #1e3a8a); }
+  50%  { background: linear-gradient(to right, #f59e0b, #d4af37, #e5e7eb, #1e3a8a, #10b981); }
+  75%  { background: linear-gradient(to right, #d4af37, #e5e7eb, #1e3a8a, #10b981, #f59e0b); }
+  100% { background: linear-gradient(to right, #1e3a8a, #10b981, #f59e0b, #d4af37, #e5e7eb); }
+}
+
+.welcome-block {
+  animation: orbitFade 20s infinite ease-in-out;
+  padding: 40px;
+  border-radius: 16px;
+  font-family: 'Segoe UI', sans-serif;
+  color: #0f172a;
+}
+</style>
+
+<div class="welcome-block">
+  <div style="display: flex; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/2bdd97f8-3985-4e1a-8236-a400c40a35b8" alt="BGC-Finanzschutz-Governance-transparent" width="100" height="100" style="margin-right: 24px; border-radius: 8px;" />
+    <div>
+      <h1 style="margin: 0; font-size: 2em;">Welcome to <strong>BlockGoldCoin (BGC)</strong></h1>
+      <p style="margin: 10px 0 0; font-size: 1.2em;">
+        Modular, planetary-scale token architecture for <strong>SAFEARTH</strong> and beyond.<br />
+        <em>Mint. Govern. Orbit. Mythos.</em>
+      </p>
+    </div>
   </div>
 </div>
+
 
 <!--
 **BlockGoldCoin/BlockGoldCoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
