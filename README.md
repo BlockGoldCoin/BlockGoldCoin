@@ -8,6 +8,13 @@
     </p>
   </div>
 </div>
+@keyframes orbitFade {
+  0%   { background: linear-gradient(to right, #1e3a8a, #10b981, #f59e0b, #d4af37, #e5e7eb); }
+  25%  { background: linear-gradient(to right, #10b981, #f59e0b, #d4af37, #e5e7eb, #1e3a8a); }
+  50%  { background: linear-gradient(to right, #f59e0b, #d4af37, #e5e7eb, #1e3a8a, #10b981); }
+  75%  { background: linear-gradient(to right, #d4af37, #e5e7eb, #1e3a8a, #10b981, #f59e0b); }
+  100% { background: linear-gradient(to right, #1e3a8a, #10b981, #f59e0b, #d4af37, #e5e7eb); }
+}
 
 
 <!--
